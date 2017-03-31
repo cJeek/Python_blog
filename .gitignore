@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#some bak files
+*.*~
+db.sqlite3
+migrations
+
