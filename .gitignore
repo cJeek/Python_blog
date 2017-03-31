@@ -90,6 +90,7 @@ ENV/
 
 #some bak files
 *.*~
+*.swp
 db.sqlite3
 migrations
 
